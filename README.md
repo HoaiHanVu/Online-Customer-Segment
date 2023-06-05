@@ -1,4 +1,4 @@
-# Online Customer Segmentation with RFM and KMeans Clustering, Deployed with Streamlit
+# Online Customer Segmentation with RFM and K-Means Clustering, Deployed with Streamlit
 
 ## Introduction
 
